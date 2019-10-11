@@ -99,9 +99,7 @@
       <div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right media"><img src="images/myImages/erosGonzalez.jpeg" alt=""></div>
       	<div class=" col-lg-7 col-md-7 col-sm-7 col-xs-12 pull-left media">
         	<h5 style="font-size: 30px;">Eros Gonzalez-Lopez</h5><br/>
-            <p style="font-size: 20px;">I am a junior at California State University and part of the CSin3 program, a cohort-based program 
-            which allows students to get their bachelor's in computer science in three years. I am fascinated how technology has changed the 
-            world in the last few years and how technology will continue to change.
+            <p style="font-size: 20px;">TEST
             <p>Some of my interest include: image processing, audio analysis, AI, music.</p>
             <p><a><img src="images/resume.png"></img></a></p>
         </div>
