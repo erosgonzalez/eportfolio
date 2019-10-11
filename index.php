@@ -101,7 +101,7 @@
         	<h5 style="font-size: 30px;">Eros Gonzalez-Lopez</h5><br/>
             <p style="font-size: 20px;">TEST
             <p>Some of my interest include: image processing, audio analysis, AI, music.</p>
-            <p><a><img src="images/resume.png"></img></a></p>
+            <p><a><img src="images/resume1.png"></img></a></p>
         </div>
       </div>
     </div>
