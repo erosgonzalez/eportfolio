@@ -96,7 +96,7 @@
       </div> 
        </div> 
       <div class="row">
-      <div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right media"><img src="images/myImages/egrad.jpg" alt=""></div>
+      <div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right media"><img src="images/myImages/egrad.JPG" alt=""></div>
       	<div class=" col-lg-7 col-md-7 col-sm-7 col-xs-12 pull-left media">
         	<h5 style="font-size: 30px;">Eros Gonzalez-Lopez</h5><br/>
             <p style="font-size: 20px;">TEST
