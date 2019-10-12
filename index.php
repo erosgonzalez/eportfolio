@@ -51,9 +51,9 @@
                       <ul class="nav navbar-nav">
                         <li class="menuItem active"><a href="#wrapper">Home</a></li>
                         <li class="menuItem"><a href="#aboutus">About Me</a></li>
-                        <li class="menuItem"><a href="#skillset">Skills</a></li>
-                        <li class="menuItem"><a href="#experience">Experience</a></li>
-                        <li class="menuItem"><a href="#education">Education</a></li>
+                        <li class="menuItem"><a href="#skillset">Experience</a></li>
+                        <li class="menuItem"><a href="#experience">Projects</a></li>
+                        <li class="menuItem"><a href="#education">Leadership</a></li>
                       </ul>
                     </div>
                 </div>
@@ -118,59 +118,15 @@
     	<div class="row">
         	<div class="col-md-12">
                <div class="heading">
-                <h2>Skills</h2>
+                <h2>Experience</h2>
               </div>
             </div>
-        	<div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            	<h4>Flappy Cube https://bit.ly/2qRAYHA</h4>
-                <h5>Hartnell College , Salinas, CA</h5>
-                  <p>
-                       Developed a recreation of the mobile game  Flappy Bird  with 
-                       rhythm elements inspired from  The Impossible Game using C++, SDL, 
-                       and Aubio API .Created game art using Photoshop, implemented game 
-                       logic, and engineered rhythmic analysis.
-                  </p>
-            </div>
-        </div>
           <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            	<h4>Allegro, A Musician's Tool https://bit.ly/2vMsvur</h4>
-                <h5>CSUMB , Seaside, CA</h5>
+            	<h4>Summer Intern</h4>
+                <h5>Organicgirl , Salinas, CA</h5>
                   <p>
-                       Built a tool for musicians to record and analyze recordings using Python, HTML, 
-                       and Alsaaudio API. Developed backend to take live or pre-recorded audio from the 
-                       user to transcribe notes played/analyzed into a text file.
-                  </p>
-            </div>
-              <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            	<h4>Mood, A Facial Expression Recognizer https://bit.ly/2HkNCoH</h4>
-                <h5>CSUMB , Seaside, CA</h5>
-                  <p>
-                      Built a facial expression recognition website that determines mood and recommends a 
-                      music playlist using Python, HTML, and OpenCV API. Generated different Haar Cascades 
-                      using machine learning techniques for facial recognition, and implemented a website to 
-                      take in user pictures and analyzing for mood.
-                  </p>
-            </div>
-            <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            	<h4>Faculty Portfolio https://bit.ly/2qSu3gA</h4>
-                <h5>CSUMB , Seaside, CA</h5>
-                  <p>
-                       Researched and wrote about various faculty at CSUMB. 
-                  </p>
-            </div>
-            <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            	<h4>Intro Presentation https://bit.ly/2HlpXoa</h4>
-                <h5>CSUMB , Seaside, CA</h5>
-                  <p>
-                       Presentation introducing myself to CST-300 class. 
-                  </p>
-            </div>
-            <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            	<h4>Tech Tutorial</h4>
-                <h5>CSUMB , Seaside, CA</h5>
-                  <p>
-                       Researched and contributed to a tech tutorial discussing  
-                  </p>
+                      ● Constructed detailed documentation regarding technologies being used in company’s label printing system. </p>
+                  <p>● Analyzed OPC concepts in label printing system with references to C++, .NET, and Microsoft SQL Server.</p>
             </div>
         </div>
         </div>
@@ -182,7 +138,7 @@
   <section id="experience" class="myexperties">
   	<div class="container">
         <div class="heading">
-        <h2>Work Experience</h2>
+        <h2>Projects</h2>
       </div>
         
         <div class="row media">
@@ -243,7 +199,7 @@
   <section id="education" class="educationdiploma">
   	<div class="container">
         <div class="heading">
-        <h2>Education</h2>
+        <h2>Leadership</h2>
       </div>
         
         <div class="row media">
