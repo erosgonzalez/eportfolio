@@ -106,7 +106,7 @@
             <p style="font-size: 20px;">Besides being a computer science graduate, I have also began working towards developing my desing skills using the Adobe Creative Cloud. Wether I have to make a few assets for current projects, desing a user interface, or just create something to challange myself, I know that I'm going to enjoy learning something new.
 
 <p><b>California State University Moneterey Bay</b><i> - B.S., Computer Science</i> 2019</p>
-            <p><a><img src="images/resume1.png"></img></a></p>
+            //<p><a><img src="images/resume1.png"></img></a></p>
         </div>
       </div>
     </div>
