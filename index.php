@@ -99,7 +99,7 @@
       <div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12 pull-right media"><img src="images/myImages/egrad.JPG" alt=""></div>
       	<div class=" col-lg-7 col-md-7 col-sm-7 col-xs-12 pull-left media">
 <a href = "https://drive.google.com/file/d/10iM8KpPCGQrsM6OktJzkBy41g1yguxpd/view?usp=sharing">
-        	<h5 style="font-size: 30px;">Eros Gonzalez-Lopez</h5></a><br/>
+        	<h5 style="font-size: 30px;">Eros Gonzalez-Lopez (Resume)</h5></a><br/>
             <p style="font-size: 20px;">CSin3 cohort 4 member, DREAMer, and graduate from CSU Monterey Bay. I am looking to explore new ideas and find new opportunities. There is nothing more satisfying than allowing my imagination to run wild with further discovered information and have it put into practice.
 
             <p style="font-size: 20px;">I am a creative person with interests in many art forms. With an active imagination, I find iOS and app development a strong passion of mine. I find satisfaction being able to be creative on an app storyboard, physically seeing a finished product on a smartphone, and use logic for app functionality. It is the best of both my worlds, a sense of art through design and a sense of critical thinking through functionality.
@@ -108,7 +108,7 @@
 
 <p><b>California State University Moneterey Bay</b><i> - B.S., Computer Science</i> 2019</p>
             <!--<p><a><img src="images/resume1.png"></img></a></p>-->
-        </div>
+        </div>s
       </div>
     </div>
   </section>
