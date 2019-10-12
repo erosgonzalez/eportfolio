@@ -127,10 +127,9 @@
     </div>
 </div>
           <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            	<h4>Summer Intern</h4>
-                <h5>Organicgirl, Salinas, CA</h5>
-                  <p>
-                      ● Constructed detailed documentation regarding technologies being used in company’s label printing system. </p>
+            	<h4>Summer Intern - Organicgirl</h4>
+                <h5>Intern - Salinas, CA</h5>
+                  <p>● Constructed detailed documentation regarding technologies being used in company’s label printing system. </p>
                   <p>● Analyzed OPC concepts in label printing system with references to C++, .NET, and Microsoft SQL Server.</p>
             </div>
         </div>
@@ -176,7 +175,7 @@
         <div class="row media">
         	<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
             	<div class="expertiesico">
-M​ar. 2017 - Apr. 2017
+                    Mar. 2017 - Apr. 2017
                 </div>
             </div>
         	<div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
@@ -208,29 +207,29 @@ M​ar. 2017 - Apr. 2017
         <div class="heading">
         <h2>Leadership</h2>
       </div>
-        
         <div class="row media">
-        	<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
-            	<div class="expertiesico">
-                	Aug 2016 - May 2019
+            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                <div class="expertiesico">
+                    ​Jan. 2018 - Feb. 2018
                 </div>
             </div>
-        	<div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            	<h4>Junior at </h4>
-                <h5>California State University</h5>
-                <p></p>
+            <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
+                <h4>Faces of DACA - Hartnell College</h4>
+                <h5>Event Assistant - Salinas, CA</h5>
+                    <p>● Assisted event coordinator and event manager with pre-event logistics for the Faces of DACA celebration.</p>
+                    <p>● Hosted 250 Salinas Valley community members and raised over $5,000 USD for DACA recipients.</p>
             </div>
         </div>
         <div class="row media">
-        	<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
-            	<div class="expertiesico">
-                	Aug 2015 - Jan 2018
+            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                <div class="expertiesico">
+                    ​​Aug. 2017 - Dec. 2017
                 </div>
             </div>
-        	<div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            	<h4>Associates in Science</h4>
-                <h5>Hartnell College</h5>
-                <p></p>
+            <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
+                <h4>Peer Led Team Learning - Hartnell College</h4>
+                <h5>Peer Leader - Salinas, CA</h5>
+                    <p>● Reinforced group of students’ computer programming, critical thinking, problem-solving, and teamwork skills by leading them through a series of problems of intro level C++ packets.</p>
             </div>
         </div>
     </div>
