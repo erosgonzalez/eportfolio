@@ -108,7 +108,7 @@
 
 <p><b>California State University Moneterey Bay</b><i> - B.S., Computer Science</i> 2019</p>
             <!--<p><a><img src="images/resume1.png"></img></a></p>-->
-        </div>s
+        </div>
       </div>
     </div>
   </section>
