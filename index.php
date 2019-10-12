@@ -123,12 +123,12 @@
             </div>
 <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
     <div class="expertiesico">
-        ​May 2018 - November 2018
+        ​May 2018 - Nov. 2018
     </div>
 </div>
           <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
             	<h4>Summer Intern</h4>
-                <h5>Organicgirl , Salinas, CA</h5>
+                <h5>Organicgirl, Salinas, CA</h5>
                   <p>
                       ● Constructed detailed documentation regarding technologies being used in company’s label printing system. </p>
                   <p>● Analyzed OPC concepts in label printing system with references to C++, .NET, and Microsoft SQL Server.</p>
@@ -149,53 +149,55 @@
         <div class="row media">
         	<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
             	<div class="expertiesico">
-                	Jan 2018 - Feb 2018
+                	​May 2019 - Present
                 </div>
             </div>
         	<div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            	<h4>Faces of DACA http://bit.ly/2FOQ85Y</h4>
-                <h5>Event Assistant</h5>
-                  <p>
-                       Assisted event coordinator and event manager 
-                       with pre-event logistics for the Faces of DACA celebration. 
-                       Advertised event through social media marketing, acquired food 
-                       sponsorship, and managed volunteers. 
-                       Hosted 250 Salinas Valley community members and 
-                       raised over $5,000 USD for DACA recipients. 
-                  </p>
+            	<h4>Dad Jokes - Those App Guys</h4>
+                <h5>App Developer - Monterey, CA</h5>
+                    <p>● Built comedy entertainment iOS application with Swift inspired by jokes said by dads around the world.</p>
+                    <p>● Designed user interface and created application icons with Adobe Photoshop.</p>
+                    <p>● Utilized the ​icanhazdadjoke.com ​API for joke retrieval via Alamofire’s JSON capability.</p>
             </div>
         </div>
         <div class="row media">
         	<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
             	<div class="expertiesico">
-                	Jul 2017 - Dec 2017
+                	​April 2019 - Present
                 </div>
             </div>
         	<div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            	<h4>herScript http://bit.ly/2DykRCn</h4>
-                <h5>Webmaster</h5>
-                  <p>
-                      Oversaw chapter officer’s work for correctness, 
-                    maintained the herScript website and social media accounts, 
-                    and outreached for future events.
-                  </p>
+            	<h4>Crave-Thru - Those App Guys</h4>
+                <h5>App Developer - Monterey, CA</h5>
+                    <p>● Developed​ Tinder i​nspired iOS application for narrowing down restaurant options around user’s locations utilizing Swift and Firebase Cloud Firestore.</p>
+                    <p>● Initialized application database containing user data, designed application flow, and implemented user interface.</p>
             </div>
         </div>
         <div class="row media">
         	<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
             	<div class="expertiesico">
-                	Aug 2017 - Dec 2017
+                	M​arch 2017 - April 2017
                 </div>
             </div>
         	<div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            	<h4>Hartnell College</h4>
-                <h5>Intro to Programming Tutor</h5>
-                  <p>
-                      Reinforced group of students’ computer programming, 
-                    critical thinking, problem-solving, and teamwork skills
-                    by leading them through a series of problems of intro level C++ packets.
-                  </p>
+            	<h4>Allegro, A Musician's Tool - CSUMB</h4>
+                <h5>Backend Developer - Seaside, CA</h5>
+                    <p>● Created a tool for musicians to record and analyze recordings using Python, HTML, and Alsaaudio API.</p>
+                    <p>● Formed backend to take live or pre-recorded audio from user and transcribe notes played/analyzed into a text file.</p>
             </div>
+        </div>
+        <div class="row media">
+                   <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                       <div class="expertiesico">
+​                           Feb. 2017 - April 2017
+                       </div>
+                   </div>
+                   <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
+                       <h4>Mood, A Facial Expression Recognize - CSUMB</h4>
+                       <h5>Backend Developer - Seaside, CA</h5>
+                           <p>● Constructed a website for facial expression recognition that determines mood for a matching music playlist using Python, HTML, and OpenCV API.</p>
+                           <p>● Generated different Haar Cascades using machine learning techniques for facial recognition, and implemented website to take in user pictures and analyzing for mood.</p>
+                   </div>
         </div>
     </div>
   </section>
