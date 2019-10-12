@@ -152,7 +152,9 @@
                 </div>
             </div>
         	<div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-            	<h4>Dad Jokes - Those App Guys</h4>
+            	<a href = "https://bit.ly/2q6Rp5r">
+                    <h4>Dad Jokes - Those App Guys</h4>
+                </a>
                 <h5>App Developer - Monterey, CA</h5>
                     <p>● Built comedy entertainment iOS application with Swift inspired by jokes said by dads around the world.</p>
                     <p>● Designed user interface and created application icons with Adobe Photoshop.</p>
