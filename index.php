@@ -243,7 +243,7 @@
       <ul>
         <li><a href="#"><i class="fa fa-twitter fa-2x"></i></a></li>
         <li><a href="#"><i class="fa fa-facebook fa-2x"></i></a></li>
-        <li><a href="#"><i class="fa fa-linkedin fa-2x"></i></a></li>
+        <li><a href="https://www.linkedin.com/in/erosgonzalez/"><i class="fa fa-linkedin fa-2x"></i></a></li>
       </ul>
     </div>
     <p class="text-center"><a href="#wrapper" class="gototop"><i class="fa fa-chevron-up fa-2"></i></a></p>
