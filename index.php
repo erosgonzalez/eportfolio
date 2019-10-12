@@ -106,6 +106,9 @@
             <p style="font-size: 20px;">Besides being a computer science graduate, I have also began working towards developing my desing skills using the Adobe Creative Cloud. Wether I have to make a few assets for current projects, desing a user interface, or just create something to challange myself, I know that I'm going to enjoy learning something new.
 
 <p><b>California State University Moneterey Bay</b><i> - B.S., Computer Science</i> 2019</p>
+<a href = "https://drive.google.com/file/d/10iM8KpPCGQrsM6OktJzkBy41g1yguxpd/view?usp=sharing">
+    <p><b> Resume</b></p>
+</a>
             <!--<p><a><img src="images/resume1.png"></img></a></p>-->
         </div>
       </div>
@@ -168,7 +171,9 @@
                 </div>
             </div>
         	<div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
+            <a href = "https://bit.ly/2M9HJj6">
             	<h4>Crave-Thru - Those App Guys</h4>
+            </a>
                 <h5>App Developer - Monterey, CA</h5>
                     <p>● Developed​ Tinder i​nspired iOS application for narrowing down restaurant options around user’s locations utilizing Swift and Firebase Cloud Firestore.</p>
                     <p>● Initialized application database containing user data, designed application flow, and implemented user interface.</p>
@@ -181,7 +186,9 @@
                 </div>
             </div>
         	<div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
+            <a href = "https://bit.ly/2vMsvur">
             	<h4>Allegro, A Musician's Tool - CSUMB</h4>
+            </a>
                 <h5>Backend Developer - Seaside, CA</h5>
                     <p>● Created a tool for musicians to record and analyze recordings using Python, HTML, and Alsaaudio API.</p>
                     <p>● Formed backend to take live or pre-recorded audio from user and transcribe notes played/analyzed into a text file.</p>
@@ -194,7 +201,9 @@
                        </div>
                    </div>
                    <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
+                    <a href = "https://bit.ly/2HkNCoH">
                        <h4>Mood, A Facial Expression Recognize - CSUMB</h4>
+                    </a>
                        <h5>Backend Developer - Seaside, CA</h5>
                            <p>● Constructed a website for facial expression recognition that determines mood for a matching music playlist using Python, HTML, and OpenCV API.</p>
                            <p>● Generated different Haar Cascades using machine learning techniques for facial recognition, and implemented website to take in user pictures and analyzing for mood.</p>
@@ -243,8 +252,6 @@
   <section class="footer" id="footer">
     <div class="container">
       <ul>
-        <li><a href="#"><i class="fa fa-twitter fa-2x"></i></a></li>
-        <li><a href="#"><i class="fa fa-facebook fa-2x"></i></a></li>
         <li><a href="https://www.linkedin.com/in/erosgonzalez/"><i class="fa fa-linkedin fa-2x"></i></a></li>
       </ul>
     </div>
