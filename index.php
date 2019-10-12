@@ -101,10 +101,11 @@
         	<h5 style="font-size: 30px;">Eros Gonzalez-Lopez</h5><br/>
             <p style="font-size: 20px;">CSin3 cohort 4 member, DREAMer, and graduate from CSU Monterey Bay. I am looking to explore new ideas and find new opportunities. There is nothing more satisfying than allowing my imagination to run wild with further discovered information and have it put into practice.
 
-<p style="font-size: 20px;">I am a creative person with interests in many art forms. With an active imagination, I find iOS and app development a strong passion of mine. I find satisfaction being able to be creative on an app storyboard, physically seeing a finished product on a smartphone, and use logic for app functionality. It is the best of both my worlds, a sense of art through design and a sense of critical thinking through functionality.
+            <p style="font-size: 20px;">I am a creative person with interests in many art forms. With an active imagination, I find iOS and app development a strong passion of mine. I find satisfaction being able to be creative on an app storyboard, physically seeing a finished product on a smartphone, and use logic for app functionality. It is the best of both my worlds, a sense of art through design and a sense of critical thinking through functionality.
 
-<p style="font-size: 20px;">Besides being a computer science graduate, I have also began working towards developing my desing skills using the Adobe Creative Cloud. Wether I have to make a few assets for current projects, desing a user interface, or just create something to challange myself, I know that I'm going to enjoy learning something new.
-            <p>Interest include: image processing, audio analysis, AI, music.</p>
+            <p style="font-size: 20px;">Besides being a computer science graduate, I have also began working towards developing my desing skills using the Adobe Creative Cloud. Wether I have to make a few assets for current projects, desing a user interface, or just create something to challange myself, I know that I'm going to enjoy learning something new.
+
+<p><b>California State University Moneterey Bay</b><i> - B.S., Computer Science</i> 2019</p>
             <p><a><img src="images/resume1.png"></img></a></p>
         </div>
       </div>
