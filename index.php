@@ -163,7 +163,7 @@
         <div class="row media">
         	<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
             	<div class="expertiesico">
-                	​April 2019 - Present
+​Apr. 2019 - Present
                 </div>
             </div>
         	<div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
@@ -176,7 +176,7 @@
         <div class="row media">
         	<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
             	<div class="expertiesico">
-                	M​arch 2017 - April 2017
+M​ar. 2017 - Apr. 2017
                 </div>
             </div>
         	<div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
@@ -189,7 +189,7 @@
         <div class="row media">
                    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
                        <div class="expertiesico">
-​                           Feb. 2017 - April 2017
+​                           Feb. 2017 - Apr. 2017
                        </div>
                    </div>
                    <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
