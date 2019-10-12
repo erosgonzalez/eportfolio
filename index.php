@@ -121,6 +121,11 @@
                 <h2>Experience</h2>
               </div>
             </div>
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+    <div class="expertiesico">
+        ​May 2018 - November 2018
+    </div>
+</div>
           <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
             	<h4>Summer Intern</h4>
                 <h5>Organicgirl , Salinas, CA</h5>
